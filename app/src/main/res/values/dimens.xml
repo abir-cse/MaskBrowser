@@ -1,0 +1,10 @@
+<resources xmlns:tools="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <!-- Overriding Default Bottom Navigation sizes-->
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">2sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">2sp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">45dp</dimen>
+
+</resources>

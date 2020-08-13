@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mask Browser</string>
+
+    <string name="mask_browser">Mask Browser - It\'s Private</string>
+    <string name="browse">Browse - Erase - No Trace</string>
+
+    <string name="admob_int_1">ca-app-pub-9062734081441653/4016314057</string>
+    <string name="admob_int_2">ca-app-pub-9062734081441653/4998436154</string>
+
+    <string name="fb_int_1">947597788782997_947597982116311</string>
+</resources>
